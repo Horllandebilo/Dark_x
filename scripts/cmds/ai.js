@@ -28,7 +28,7 @@ const UPoLPrefix = [
       
      const upol = event.body.substring(ahprefix.length).trim();
    if (!upol) {
-   Bon     await message.reply(🧛Pose ta question misérable humain ✍️🉐);
+   Bon     await message.reply(🧛Pose ta question misérable humain...✍️🉐);
         return;
       }
       
